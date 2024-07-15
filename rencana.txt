@@ -1,4 +1,4 @@
 RENCANA
-- belajar laravel
+- belajar laravel - CURD
 - belajar php
 - belajar mulai dari awal
