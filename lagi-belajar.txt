@@ -1,2 +1,3 @@
 - belajar github
 - membuat sesuai tutorial youtube
+- coba commit
